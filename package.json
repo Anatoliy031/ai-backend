@@ -1,0 +1,14 @@
+{
+  "name": "ai-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "express": "*",
+    "cors": "*",
+    "openai": "*"
+  }
+}
